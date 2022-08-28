@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Home</title>
+    </head>
+    <body background="E:\迅雷下载\代码\test4\7-Chi_La_AMeng_Xiao_Di-100852_113.jpg">
+        <center><h1 align="center">自我介绍</h1><br></center>
+        <a href="test4\首页" target="_blank">首页</a>
+        <a href="https://www.google.com/?hl=ja" target="_blank">我的相册</a>
+        <a href="https://www.google.com/?hl=ja" target="_blank">我的家乡</a>
+
+
+    </body>
+</html>
